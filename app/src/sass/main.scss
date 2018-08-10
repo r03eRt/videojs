@@ -1,0 +1,11 @@
+/** Fihero principal Sass */
+
+body {
+	margin: 0;
+}
+
+@import "~video.js/src/css/video-js.scss";
+@import "./customPlayer.scss";
+@import "playList.scss"
+
+
